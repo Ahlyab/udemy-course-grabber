@@ -30,7 +30,7 @@ def info():
 def end_msg():
     end_msg = ''' 
     --------------------------------------------
-            Thank You for your patiences!
+            Thank You for your patience!
           All coupons are saved in coupons.txt
                 Hope to see you again!
     --------------------------------------------
